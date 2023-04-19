@@ -1,4 +1,4 @@
-# desktop
+## Certicar que está na pasta raiz do projeto
 
 ## Project setup
 ```
@@ -9,6 +9,8 @@ yarn install
 ```
 yarn serve
 ```
+
+## Após isso, o arquivo package-lock deve ser criado
 
 ### Compiles and minifies for production
 ```
